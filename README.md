@@ -2,10 +2,10 @@
 
 A continuously updated list of bug bounty program scopes from major platforms:
 
-- HackerOne
-- Bugcrowd
-- Intigriti
-- YesWeHack
+- Bugcrowd<sup><a href="https://bugcrowd.com">↗</a></sup>  
+- HackerOne<sup><a href="https://hackerone.com">↗</a></sup>  
+- Intigriti<sup><a href="https://intigriti.com">↗</a></sup>  
+- YesWeHack<sup><a href="https://yeswehack.com">↗</a></sup>
 
 ## ⚠️ Disclaimer
 
